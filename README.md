@@ -1,6 +1,6 @@
-# flutter_gif_finder
+# flutter_giphy_search
 
-A Flutter app that finds gifs
+A Flutter app to find and share gifs
 
 ## Getting Started
 
